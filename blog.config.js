@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'HashCrypto | Blockchain News in Cambobida',
+  title: 'HashCrypto | Blockchain News',
   author: 'HashCrypto',
   email: 'hunlyme@gmail.com',
   link: 'https://hashcrypto.vercel.app',
-  description: 'The best Blockchain and Crypto news sources in Cambodia.',
+  description: 'The best Blockchain in Cambodia.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
