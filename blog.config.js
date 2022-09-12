@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'HashCrypto',
+  title: 'HashCrypto | Blockchain News',
   author: 'Hunly Chheng',
   email: 'hunlyme@gmail.com',
   link: 'https://hashcrypto.vercel.app',
