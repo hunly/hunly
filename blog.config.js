@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'HashCrypto | Blockchain News in Cambobida',
-  author: '#Crypto',
+  author: 'HashCrypto',
   email: 'hunlyme@gmail.com',
   link: 'https://hashcrypto.vercel.app',
   description: 'The best Blockchain and Crypto news sources in Cambodia.',
