@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'Hunly | Personal Blog',
-  author: 'Hunly Chheng',
+  author: 'Hunly Chheng | ',
   email: 'hunlyme@gmail.com',
   link: 'https://hunly.io',
   description: 'Welcome to my personal blog.',
